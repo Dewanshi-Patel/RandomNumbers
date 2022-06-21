@@ -1,0 +1,2 @@
+module GenerateRandom {
+}
